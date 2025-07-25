@@ -12,6 +12,9 @@ First, I wanted to check how effective LinkedIn Learning and YouTube tutorials w
 
 ![Active learning is 3x more effective than passive learning](./Images/github_active_vs_passive.png)  
 
+This shows that it's a MUCH better use of time to practice independently when building a skillset.  We can use videos, books and school to supplement our knowledge of concepts and get the full picture, but at the end of the day, it's applying these concepts ourselves that will prove most useful.
+
+
 More visualizations to come as I find more questions to answer and data to analyze.
 
 # Implementation
