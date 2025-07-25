@@ -9,7 +9,7 @@
 
 # Results
 First, I wanted to check how effective, LinkedIn Learning and YouTube tutorials were for skill building:
-![Active learning is 3x more effective than passive learning](./images/github_active_vs_passive.png)  
+![Active learning is 3x more effective than passive learning](./Images/github_active_vs_passive.png)  
 
 More visualizations to come as I find more questions to answer and data to analyze.
 
