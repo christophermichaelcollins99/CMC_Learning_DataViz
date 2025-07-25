@@ -1,6 +1,6 @@
 # PROJECT
-# "How do we learn most effectively?"  
-## Learning Data Visualizations
+# "How do we learn most effectively?"
+This project uses data from psychology and Power BI to visualize the best way to skill-build quickly and meaningfully.
 
 # Technology Used
 - Power BI - report development and data modeling
@@ -15,7 +15,7 @@ First, I wanted to check how effective LinkedIn Learning and YouTube tutorials w
 More visualizations to come as I find more questions to answer and data to analyze.
 
 # Implementation
-- **Create a Power BI report file**  
+- **Create a Power BI report file.**  
  This will contain our data and visualizations.
 - **Load Data.**  
  Using Excel data files, manual entry for small datasets, or online sources.
